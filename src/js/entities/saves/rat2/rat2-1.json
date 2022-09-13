@@ -1,0 +1,373 @@
+{
+    "meta": {
+        "meta": {
+            "name": "rat2",
+            "created": 1661657957277
+        }
+    },
+    "data": [
+        {
+            "position": {
+                "x": 24.5,
+                "y": -49
+            },
+            "size": {
+                "x": 100,
+                "y": 100
+            },
+            "radius": 20,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#a58181",
+            "label": "Item 8",
+            "expanded": false,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190395.90000009537,
+            "type": "circle"
+        },
+        {
+            "position": {
+                "x": 2.5,
+                "y": -49
+            },
+            "size": {
+                "x": 100,
+                "y": 100
+            },
+            "radius": 20,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#9f7979",
+            "label": "Item 8",
+            "expanded": false,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190484.40000009537,
+            "type": "circle"
+        },
+        {
+            "position": {
+                "x": -131,
+                "y": 8
+            },
+            "size": {
+                "x": 137.999267578125,
+                "y": 13
+            },
+            "radius": 6,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#756767",
+            "label": "Body",
+            "expanded": false,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190505.40000009537,
+            "type": "rectangle"
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "x": 137.999267578125,
+                "y": 69
+            },
+            "radius": 10,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#af9090",
+            "label": "Body",
+            "expanded": false,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190518.40000009537,
+            "type": "rectangle"
+        },
+        {
+            "position": {
+                "x": 20,
+                "y": -13
+            },
+            "size": {
+                "x": 100,
+                "y": 100
+            },
+            "radius": 10,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#d50404",
+            "label": "LeftEye",
+            "expanded": true,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190528.80000007153,
+            "type": "circle"
+        },
+        {
+            "position": {
+                "x": 52,
+                "y": -13
+            },
+            "size": {
+                "x": 100,
+                "y": 100
+            },
+            "radius": 10,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#000",
+            "label": "RightEye",
+            "expanded": false,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190539.40000009537,
+            "type": "circle"
+        },
+        {
+            "position": {
+                "x": 48,
+                "y": 22
+            },
+            "size": {
+                "x": 13,
+                "y": 17
+            },
+            "radius": 3,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#ffe9d2",
+            "label": "Tooth1",
+            "expanded": false,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190547.20000004768,
+            "type": "rectangle"
+        },
+        {
+            "position": {
+                "x": 63,
+                "y": 22
+            },
+            "size": {
+                "x": 13,
+                "y": 17
+            },
+            "radius": 3,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#ffe9d2",
+            "label": "Tooth1",
+            "expanded": false,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190554.90000009537,
+            "type": "rectangle"
+        },
+        {
+            "position": {
+                "x": 50,
+                "y": 7
+            },
+            "size": {
+                "x": 52,
+                "y": 25
+            },
+            "radius": 10,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#af9090",
+            "label": "Nose",
+            "expanded": false,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190562.5,
+            "type": "rectangle"
+        },
+        {
+            "position": {
+                "x": 70,
+                "y": 3
+            },
+            "size": {
+                "x": 13,
+                "y": 13
+            },
+            "radius": 3,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#3f3f3f",
+            "label": "NoseTip",
+            "expanded": false,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190570.20000004768,
+            "type": "rectangle"
+        },
+        {
+            "position": {
+                "x": 1.5,
+                "y": -49
+            },
+            "size": {
+                "x": 100,
+                "y": 100
+            },
+            "radius": 12,
+            "strokeColor": "#000",
+            "fillColor": "#000",
+            "color": "#bfaeae",
+            "label": "Item 8",
+            "expanded": true,
+            "rotation": 0,
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 100,
+                    "y": 100
+                }
+            ],
+            "center": {
+                "x": 512,
+                "y": 384
+            },
+            "uuid": 190584.40000009537,
+            "type": "circle"
+        }
+    ]
+}

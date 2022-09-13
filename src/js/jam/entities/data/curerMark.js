@@ -1,0 +1,1 @@
+export default [{ position: { x: 0, y: 0 }, points: [{ x: -34, y: -44 }, { x: -51, y: -14 }, { x: -37, y: -5 }, { x: -48, y: 14 }, { x: -37, y: -5 }, { x: -29, y: 0 }, { x: -34, y: 8 }, { x: -24, y: 15 }], radius: 5, alpha: 0.3 }]

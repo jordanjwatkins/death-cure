@@ -1,0 +1,1 @@
+export default [{"position":{"x":546,"y":41},"points":[{"x":-587,"y":-730},{"x":737,"y":274}],"radius":677,"alpha":0.6},{"position":{"x":-105,"y":39},"points":[{"x":-763,"y":-719},{"x":755,"y":432}],"radius":337,"alpha":0.3},{"position":{"x":-204,"y":115},"points":[{"x":-689,"y":-302},{"x":342,"y":480}],"radius":480,"alpha":0.3,"color":"#ff0000"}]

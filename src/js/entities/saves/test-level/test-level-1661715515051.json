@@ -1,0 +1,1 @@
+{"meta":{"name":"test-level","created":1661715515045},"data":[{"position":{"x":0,"y":79},"size":{"x":100,"y":100},"radius":110,"strokeColor":"#000","fillColor":"#000","color":"#927777","label":"Item 0","expanded":true,"rotation":0,"points":[{"x":-528,"y":253},{"x":528,"y":253}],"center":{"x":512,"y":384},"uuid":9427.200000001118,"type":"line"}],"overwrite":false}

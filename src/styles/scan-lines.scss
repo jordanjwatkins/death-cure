@@ -1,0 +1,35 @@
+.scan-lines {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: repeating-linear-gradient(transparent, transparent 3px, #bbb 3px, #bbb 6px);
+    z-index: 10000;
+    opacity: 1;
+    mix-blend-mode: soft-light;
+    pointer-events: none;
+    /*
+    background: repeating-linear-gradient(#fff, #fff 3px, #bbb 3px, #bbb 6px);
+    z-index: 10000;
+    opacity: 0.16;
+    mix-blend-mode: unset;*/
+
+    background: repeating-linear-gradient(transparent, transparent 3px, #fff 3px, #fff 6px);
+    mix-blend-mode: lighten;
+    opacity: 0.14;
+}
+
+.scan-lines-2 {
+    position: absolute;
+    top: -3px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: "";
+    background: repeating-linear-gradient(transparent, transparent 3px, #333 3px, #333 6px);
+    mix-blend-mode: multiply;
+    z-index: 10001;
+    opacity: 0.1;
+    pointer-events: none;
+}

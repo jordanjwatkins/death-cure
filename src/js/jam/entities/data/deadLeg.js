@@ -1,0 +1,1 @@
+export default [{"position":{"x":-65,"y":0},"points":[{"x":31,"y":72},{"x":31,"y":111}],"radius":10,"color":"#3e484f"}]

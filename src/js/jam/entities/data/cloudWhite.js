@@ -1,0 +1,1 @@
+export default [{ position: { x: 0, y: 0 }, points: [{ x: 0, y: 0 }, { x: 32, y: 42 }], radius: 30, color: '#ffffff' }, { position: { x: 0, y: 0 }, points: [{ x: 24, y: -7 }, { x: -2, y: 41 }], radius: 30, color: '#ffffff' }, { position: { x: 0, y: 0 }, points: [{ x: 43, y: 16 }, { x: -22, y: 22 }], radius: 30, color: '#ffffff' }]
